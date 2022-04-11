@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CarterBryantt
+- 👀 I’m interested in Javascript and developing useful apps.
+- 🌱 I’m currently learning about APIs, local storage, and HTTP request.
+- 📫 How to reach me: carterbryantt@gmail.com
